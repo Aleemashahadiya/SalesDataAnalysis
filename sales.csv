@@ -1,7 +1,7 @@
-Date,Product,Sales
-2025-01-01,Tea,120
-2025-01-01,Coffee,150
-2025-01-02,Tea,200
-2025-01-02,Milk,180
-2025-01-03,Coffee,220
-2025-01-03,Milk,160
+Date,Product,Region,Sales
+2025-08-01,A,North,200
+2025-08-01,B,South,300
+2025-08-02,A,East,150
+2025-08-02,C,West,400
+2025-08-03,B,North,250
+2025-08-03,A,South,350
